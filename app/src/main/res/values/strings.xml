@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TECNM 7A6</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">INICIO</string>
+
+    <string name="menu_home">INICIO</string>
+    <string name="menu_gallery">COLABORADORES</string>
+    <string name="menu_slideshow">OPERACIÓN</string>
+    <string name="button2_text">SEMESTRE\n</string>
+    <string name="image_content_description">LOGO ITCA\n</string>
+    <string name="image_description">MAICO\n</string>
+    <string name="colaboradores_text">COLABORADORES\n</string>
+    <string name="name_1">MAICO ZAET \nPEREZ VALENCIA\n</string>
+    <string name="name_2">MARIANA LILIBETH \nANTUNEZ GARCIA</string>
+    <string name="semestre">&quot;SEMESTRE: SEPTIMO &quot;</string>
+    <string name="carrera">&quot;CARRERA: ING INFORMATICA &quot;</string>
+    <string name="materia">MATERIA: DESARROLLO DE \nAPLICACIONES MÓVILES</string>
+    <string name="docente">DOCENTE: SERGIO VIVAS HERNANDEZ\n</string>
+    <string name="action_settings2">COLABORADORES</string>
+    <string name="action_settings3">OPERACIONES</string>
+    <string name="chili_description">chilihack</string>
+    <string name="alonso_description">dark\n</string>
+    <string name="name_3">JORGE CAMPOS ALBARADO\n</string>
+    <string name="name_4">ANGEL DARK \nALONSO LEON</string>
+    <string name="action_view_map">MAPA</string>
+</resources>
